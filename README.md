@@ -10,7 +10,6 @@ A Digital Curling AI based on MCTS and Genetic Algorithm.
 > 本项目构建了一个在连续物理空间下具备毫秒级响应能力的数字冰壶博弈 Agent。通过手写二维物理引擎，并结合蒙特卡洛树搜索 (MCTS)、遗传算法 (GA) 与深度学习价值网络，解决了冰壶运动中“连续动作空间发散”与“稀疏奖励”的算法痛点。
 
 ## Demo 演示
-*(💡 提示：这里放你 PPT 里那个“十倍速播放”的对战录屏 GIF 动图)*
 ![Demo GIF](./demo.gif)
 
 ## 核心技术架构 (Core Architecture)
